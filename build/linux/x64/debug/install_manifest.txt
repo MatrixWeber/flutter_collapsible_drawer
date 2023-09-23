@@ -1,0 +1,12 @@
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/test_project
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/lib/libwindow_size_plugin.so
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/nvme1TB/flutter/projects/test_project/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
